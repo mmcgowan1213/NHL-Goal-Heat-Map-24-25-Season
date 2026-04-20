@@ -22,4 +22,4 @@ Knowing that the nets in hockey are 89 feet from center ice,
 I added a geom_vline across 89 on my x intercept.
 
 When looking at the plot it is fairly obvious most goals 
-come from the middle of the ice at a distance of about 7-8 feet out.
+come from the center of the ice at a distance of about 7-8 feet out.
